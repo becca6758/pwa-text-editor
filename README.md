@@ -26,6 +26,13 @@ To use this application please click on the following link listed below:
 
 https://wk19-pwa-text-editor.herokuapp.com/ 
 
+"https://drive.google.com/file/d/1a-WczWET6Bix68XXcNFyoiM2TI69KGX_/view?usp=sharing"
+
+![image](https://drive.google.com/uc?export=view&id=1f1cDMjS2VVSDd6Jq-aCAaSUiUqY7YfVw)
+![image](https://drive.google.com/uc?export=view&id=1_COQ445nJBP_7EhcXDi2PHfuDGOY26nJ)
+
+
+
 ## Credits
 
 Just Me
